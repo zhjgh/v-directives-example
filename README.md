@@ -1,4 +1,4 @@
-# v-directive-example
+# v-directives-example
 
 ## Project setup
 ```
